@@ -1,0 +1,39 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Mac system files
+*.swp
+
+# Data files (optional - comment if you want to upload dataset)
+data/*.csv
+
+# Large model cache (optional)
+.cache/
